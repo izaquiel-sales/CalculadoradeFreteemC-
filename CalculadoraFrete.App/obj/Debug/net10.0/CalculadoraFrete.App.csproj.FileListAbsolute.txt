@@ -1,0 +1,14 @@
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.exe
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.deps.json
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.runtimeconfig.json
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.dll
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.pdb
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.AssemblyInfoInputs.cache
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.AssemblyInfo.cs
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.csproj.CoreCompileInputs.cache
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.dll
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\refint\CalculadoraFrete.App.dll
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.pdb
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.genruntimeconfig.cache
+C:\Users\wcc_devs\Desktop\Antonio 007\CalculadoradeFreteemC#\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\ref\CalculadoraFrete.App.dll
